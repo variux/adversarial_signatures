@@ -20,7 +20,7 @@ pip install git+https://github.com/luizgh/sigver.git --process-dependency-links
 
 Download (or clone) this repository and install its requirements: 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 For the LBP experiments, you need to have Matlab installed, and install the python/matlab integration:
